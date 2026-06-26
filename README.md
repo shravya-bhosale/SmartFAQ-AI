@@ -20,6 +20,22 @@ SmartFAQ AI is an intelligent FAQ chatbot built using Python, Streamlit, and Nat
 - Scikit-learn
 - NLTK
 
+## Project Structure
+
+```
+SmartFAQ-AI/
+│
+├── app.py
+├── chatbot.py
+├── faq.csv
+├── style.css
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── images/
+    └── chatbot-home.png
+```
+
 ## How to Run
 
 1. Install the required libraries:
